@@ -201,6 +201,9 @@ a. Model is Learned
 
 .. [#] `Recurrent World Models Facilitate Policy Evolution <https://arxiv.org/abs/1809.01999>`_, Ha and Schmidhuber, 2018. 
 
+.. [#] `Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model
+ <https://arxiv.org/abs/1911.08265>`_, Schrittwieser et al, 2019. **Algorithm: MuZero.**
+
 b. Model is Given
 -----------------
 
